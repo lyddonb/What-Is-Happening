@@ -1,0 +1,66 @@
+What is Happening?
+=================
+
+Attempting to Understand Our Systems
+------------------------------------
+
+#### Presented at DevOps Days Des Moines, April 13 2018
+
+##### Slides: 
+ - [PDF](/slides/What_is_Happening.pdf) 
+ - [HTML](/slides/html/What is Happening/index.html) 
+ - [SpeakerDeck](https://speakerdeck.com/lyddonb/what-is-happening-attempting-to-understand-our-systems)
+
+##### Video: 
+Coming Soon
+
+
+### References
+
+- [Cloud Native Landscape](https://github.com/cncf/landscape)
+- [More Environments Will Not Make Things Easier](https://blog.realkinetic.com/more-environments-will-not-make-things-easier-ce8735071440)
+- [Silicon Valley’s Tech Gods Are Headed For A Reckoning](https://www.vanityfair.com/news/2017/10/silicon-valleys-tech-giants-are-headed-for-a-reckoning)
+- [On purpose and by necessity: compliance under the GDPR](https://blog.acolyer.org/2018/03/21/on-purpose-and-by-necessity-compliance-under-the-gdpr/)
+- [ACCELERATE: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/)
+- [a16z Podcast: Feedback Loops — Company Culture, Change, and DevOps](https://a16z.com/2018/03/28/devops-org-change-software-performance)
+- [System and method for performing distributed asynchronous calculations in a networked environment](https://patents.justia.com/patent/9531795)
+- [You Could Have Invented Structured Logging](https://honeycomb.io/blog/2017/10/you-could-have-invented-structured-logging/)
+- [What is structured logging and why developers need it](https://stackify.com/what-is-structured-logging-and-why-developers-need-it/)
+- [How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript](https://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/)
+- [W3C Distributed Trace Context Community Group](https://www.w3.org/community/trace-context/)
+- [Load Testing with Locust](https://blog.realkinetic.com/load-testing-with-locust-part-1-174040afdf23)
+- [Incidents Are Unplanned Investments](www.adaptivecapacitylabs.com/blog/2018/03/23/moving-past-shallow-incident-data/)
+- [stella.report](https://drive.google.com/file/d/0B7kFkt5WxLeDTml5cTFsWXFCb1U/view)
+- [How to Keep Your Systems Running Day After Day - Allspaw](https://www.youtube.com/watch?v=xA5U85LSk0M)
+
+### Products, Libraries, Etc ...
+
+- [Honeycomb](www.honeycomb.io)
+- [Splunk](https://www.splunk.com/)
+- [Datadog](https://www.datadoghq.com/lpg/)
+- [Nagios](https://www.nagios.org/)
+- [Apache Kafka](https://kafka.apache.org/)
+- [Amazon Kinesis](https://aws.amazon.com/kinesis/)
+- [FluentD](https://www.fluentd.org/)
+- [Prometheus](https://prometheus.io/)
+- [Google Stackdriver](https://cloud.google.com/stackdriver/)
+- [VictorOps](https://victorops.com/)
+- [Amazon Glacier](https://aws.amazon.com/glacier/)
+- [Google BigQuery](https://cloud.google.com/bigquery/)
+- [Amazon Redshift](https://aws.amazon.com/redshift/)
+- [OpenCensus](https://opencensus.io)
+- [OpenTracing](https://opentracing.io)
+- [Haskell](https://www.haskell.org/)
+- [Go](https://golang.org/)
+- [AWS DynamoDB](https://aws.amazon.com/dynamodb/)
+- [Spigo and Simianviz](https://github.com/adrianco/spigo)
+- [Envoy](https://www.envoyproxy.io/)
+- [Kubernetes](https://kubernetes.io/)
+- [Istio](https://istio.io/)
+- [Linkerd](https://linkerd.io/)
+- [Kong](https://konghq.com/)
+- [Jaeger](www.jaegertracing.io)
+- [Zipkin](https://zipkin.io/)
+- [AWS X-Ray](https://aws.amazon.com/xray/)
+- [Stackdriver Trace](https://cloud.google.com/trace/)
+- [Vizceral](https://github.com/Netflix/vizceral)
