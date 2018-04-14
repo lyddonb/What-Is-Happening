@@ -14,8 +14,8 @@ What does our system actually look like right now? What did it look like an hour
 These questions have led to a tooling explosion. We will walk through some of these tools and how they can help. We’ll also call out the gaps in these tools that appear when they are applied to practical use. We’ll discuss the perspectives and categories of tooling that we need. We’ll finish by focusing on the foundational actions we can take now to best position us to adapt, as our systems and tools change.
 
 #### Slides: 
- - [PDF](/slides/What_is_Happening.pdf) 
- - [HTML](/slides/html/What\ is\ Happening/index.html) 
+ - [PDF](slides/What_is_Happening.pdf) 
+ - [HTML](slides/html/What_is_Happening/index.html) 
  - [SpeakerDeck](https://speakerdeck.com/lyddonb/what-is-happening-attempting-to-understand-our-systems)
 
 #### Video: 
