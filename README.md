@@ -19,7 +19,7 @@ These questions have led to a tooling explosion. We will walk through some of th
  - [SpeakerDeck](https://speakerdeck.com/lyddonb/what-is-happening-attempting-to-understand-our-systems)
 
 #### Video: 
-Coming Soon
+ - [Youtube](https://www.youtube.com/watch?v=xy3w2hGijhE)
 
 <hr />
 
